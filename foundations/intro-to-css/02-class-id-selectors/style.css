@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.class {
+    background-color: rgb(255, 196, 196);
+    font-family: Verdana, Geneva, Tahoma, 'DejaVu Sans', sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#id-one {
+    color: #63c3ff;
+    font-size: 36px;
+}
+
+#id-two {
+    background-color: hsla(99, 87%, 78%, 0.689);
+    font-weight: bold;
+}
